@@ -1,6 +1,6 @@
 [
-	{"Flag": "uruguay", "Team": "Uruguai", "Points": 3, "First": 0.52, "Second": 0.38, "Third": 0.08, "Fourth": 0.02},
-	{"Flag": "russia", "Team": "Rússia", "Points": 3, "First": 0.41, "Second": 0.47, "Third": 0.25, "Fourth": 0.12},
-	{"Flag": "egypt", "Team": "Egito", "Points": 0, "First": 0.07, "Second": 0.22, "Third": 0.50, "Fourth": 0.35},
-	{"Flag": "saudi-arabia", "Team": "Arábia Saudita", "Points": 0, "First": 0.05, "Second": 0.14, "Third": 0.33, "Fourth": 0.60}
+	{"Flag": "brazil", "Team": "Brasil", "Points": 0, "First": 0.8206, "Second": 0.1392, "Third": 0.033, "Fourth": 0.0072},
+	{"Flag": "switzerland", "Team": "Suíça", "Points": 0, "First": 0.1092, "Second": 0.4798, "Third": 0.2673, "Fourth": 0.1437},
+	{"Flag": "costa-rica", "Team": "Costa Rica", "Points": 0, "First": 0.0407, "Second": 0.2142, "Third": 0.3856, "Fourth": 0.3595},
+	{"Flag": "serbia", "Team": "Sérvia", "Points": 0, "First": 0.0295, "Second": 0.1668, "Third": 0.3141, "Fourth": 0.4896}
 ]
