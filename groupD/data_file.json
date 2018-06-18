@@ -1,6 +1,6 @@
 [
-{"Flag": "croatia", "Team": "Croácia", "Points": 3, "First": 0.4747, "Second": 0.3311, "Third": 0.1842, "Fourth": 0.01},
-{"Flag": "argentina", "Team": "Argentina", "Points": 1, "First": 0.4164, "Second": 0.3663, "Third": 0.1708, "Fourth": 0.0465},
-{"Flag": "iceland", "Team": "Islândia", "Points": 1, "First": 0.1014, "Second": 0.2632, "Third": 0.4854, "Fourth": 0.15},
-{"Flag": "nigeria", "Team": "Nigéria", "Points": 0, "First": 0.0075, "Second": 0.0394, "Third": 0.1596, "Fourth": 0.7935}
+{"Flag": "croatia", "Team": "Croácia", "Points": 3, "First": 0.4755, "Second": 0.3324, "Third": 0.1826, "Fourth": 0.0095},
+{"Flag": "argentina", "Team": "Argentina", "Points": 1, "First": 0.4143, "Second": 0.3754, "Third": 0.1674, "Fourth": 0.0429},
+{"Flag": "iceland", "Team": "Islândia", "Points": 1, "First": 0.1022, "Second": 0.2577, "Third": 0.4912, "Fourth": 0.1489},
+{"Flag": "nigeria", "Team": "Nigéria", "Points": 0, "First": 0.008, "Second": 0.0345, "Third": 0.1588, "Fourth": 0.7987}
 ]
