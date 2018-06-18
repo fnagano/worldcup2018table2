@@ -1,6 +1,6 @@
 [
-{"Flag": "france", "Team": "França", "Points": 3, "First": 0.6281, "Second": 0.2747, "Third": 0.0898, "Fourth": 0.0074},
-{"Flag": "denmark", "Team": "Dinamarca", "Points": 3, "First": 0.3226, "Second": 0.4884, "Third": 0.1436, "Fourth": 0.0454},
-{"Flag": "peru", "Team": "Peru", "Points": 0, "First": 0.0389, "Second": 0.1347, "Third": 0.5108, "Fourth": 0.3156},
-{"Flag": "australia", "Team": "Austrália", "Points": 0, "First": 0.0104, "Second": 0.1022, "Third": 0.2558, "Fourth": 0.6316}
+{"Flag": "france", "Team": "França", "Points": 3, "First": 0.6352, "Second": 0.269, "Third": 0.0908, "Fourth": 0.005},
+{"Flag": "denmark", "Team": "Dinamarca", "Points": 3, "First": 0.3188, "Second": 0.4927, "Third": 0.1486, "Fourth": 0.0399},
+{"Flag": "peru", "Team": "Peru", "Points": 0, "First": 0.0365, "Second": 0.1365, "Third": 0.5102, "Fourth": 0.3168},
+{"Flag": "australia", "Team": "Austrália", "Points": 0, "First": 0.0095, "Second": 0.1018, "Third": 0.2504, "Fourth": 0.6383}
 ]
