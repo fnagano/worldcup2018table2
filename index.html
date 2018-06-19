@@ -174,7 +174,7 @@
 			// Funcoes de processamento dos dados
 			// Retorna numero em porcentagem sem casas decimais
 			function percent() {
-            	return function(f) { return Math.floor(100 * f) + '%'; };
+            	return function(f) { return Math.round(100 * f) + '%'; };
         	};
         	// A partir do nome do pais, retorna a bandeira
         	function input_img() {
