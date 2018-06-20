@@ -1,6 +1,6 @@
 [
-{"Flag": "iran", "Team": "Irã", "Points": 3, "First": 0.1249, "Second": 0.2292, "Third": 0.5975, "Fourth": 0.0484},
-{"Flag": "spain", "Team": "Espanha", "Points": 1, "First": 0.4556, "Second": 0.3646, "Third": 0.1467, "Fourth": 0.0331},
-{"Flag": "portugal", "Team": "Portugal", "Points": 1, "First": 0.4121, "Second": 0.3869, "Third": 0.1652, "Fourth": 0.0358},
-{"Flag": "morocco", "Team": "Marrocos", "Points": 0, "First": 0.0074, "Second": 0.0193, "Third": 0.0906, "Fourth": 0.8827}
+{"Flag": "spain", "Team": "Espanha", "Points": 4, "First": 0.5684, "Second": 0.4162, "Third": 0.0154, "Fourth": 0},
+{"Flag": "portugal", "Team": "Portugal", "Points": 4, "First": 0.4124, "Second": 0.4714, "Third": 0.1162, "Fourth": 0},
+{"Flag": "iran", "Team": "Irã", "Points": 3, "First": 0.0192, "Second": 0.1124, "Third": 0.8443, "Fourth": 0.0241},
+{"Flag": "morocco", "Team": "Marrocos", "Points": 0, "First": 0, "Second": 0, "Third": 0.0241, "Fourth": 0.9759}
 ]
